@@ -1,0 +1,17 @@
+{
+  "num_clients": 3,
+  "num_rounds": 10,
+  "epochs_per_client": 5,
+  "learning_rate": 0.0002,
+  "beta1": 0.5,
+  "noise_dim": 100,
+  "device": "cuda",
+  "image_size": 28,
+  "channels": 1,
+  "datasets": ["mnist", "fashion_mnist", "cifar10_subset"],
+  "batch_sizes": [32, 64, 128],
+  "seed": 42,
+  "log_interval": 100,
+  "save_generated_images": true,
+  "num_generated_samples": 16
+}
