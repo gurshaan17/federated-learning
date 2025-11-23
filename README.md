@@ -172,25 +172,14 @@ After training for 10 rounds on 3 clients:
 
 - [ ] Non-IID data distribution across clients
 - [ ] Differential privacy integration
-- [ ] Byzantine-robust aggregation
 - [ ] Communication compression
 - [ ] Multi-GPU support
 - [ ] Visualization of generated images during training
-
-## References
-
-- McMahan, H. B., et al. (2017). "Communication-Efficient Learning of Deep Networks from Decentralized Data"
-- Goodfellow, I., et al. (2014). "Generative Adversarial Networks"
-- Papers on Federated Learning provided in course materials
 
 ## License
 
 MIT License - Feel free to use for educational purposes
 
-## Author
-
-Created as a Computer Science assignment on Federated Learning
-
 ## Support
 
-For issues or questions, please create an issue in the GitHub repository or contact the instructor.
+For issues or questions, please create an issue in the GitHub repository.
